@@ -1,0 +1,134 @@
+{
+    "web_base": "https://archive.org/",
+    "pc": "com.santuydev.ModBussidTruckWahyuAbadi",
+    "id_unity": "3905235",
+    "kang_zayvius": [
+       {
+         "id": "1",
+         "judul": "Mod Truck Canter Sound System",
+         "zip": "download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/Truk_Muatan_Sound_System_LED%2B%2B_V2.zip",
+         "gambar": "https://1.bp.blogspot.com/-oiActYppwu8/XyfeV4sYaII/AAAAAAAAALI/JAkuGo6jYh8bAuY8zJ4j0BXhRdvaBhwcACLcBGAsYHQ/s640/sound.jpg"
+       },
+       {
+          "id": "2",
+          "judul": "SR2 ECE R66 Hino",
+          "zip": "download/sr-2-racing-rn-285-optimus-prime-20201206-t-140306-z-001/SR2%20ECE%20R66%20Hino-20201206T140801Z-001.zip",
+          "gambar": "https://1.bp.blogspot.com/-dj_9UbWO3LA/XqLdLz5p_3I/AAAAAAAADrw/NdGf8gf24BM6jeMTtAjcsSGFXiO4z54jgCLcBGAsYHQ/s640/Screenshot_20200424-193506_Bus%2BSimulator%2BIndonesia.jpg"
+       },
+       {
+          "id": "3",
+          "judul": "SR2 Racing RN285 Optimus Prime",
+          "zip": "download/sr-2-racing-rn-285-optimus-prime-20201206-t-140306-z-001/SR2%20Racing%20RN285%20Optimus%20Prime-20201206T140306Z-001.zip",
+          "gambar": "https://1.bp.blogspot.com/-RlLnuCiN5h4/XqLeIQwYsgI/AAAAAAAADsA/TRZ7EYBMjCcssUZECOx5KaX1S3Kjjg5ugCLcBGAsYHQ/s640/Screenshot_20200424-193859_Bus%2BSimulator%2BIndonesia.jpg"
+       },
+       {
+          "id": "4",
+          "judul": "SR2 Suite Class Sinar Jaya",
+          "zip": "download/sr-2-racing-rn-285-optimus-prime-20201206-t-140306-z-001/SR2%20Suite%20Class-20201206T140101Z-001.zip",
+          "gambar": "https://1.bp.blogspot.com/-HH_MNF4jRpk/XqLfFvgUT5I/AAAAAAAADsQ/IIBOH2coTF4f7ahpJOOZnZYlZ7YDa8-xwCLcBGAsYHQ/s640/Screenshot_20200424-194240_Bus%2BSimulator%2BIndonesia.jpg"
+       },
+       {
+          "id": "5",
+          "judul": "Srikandi SHD",
+          "zip": "download/sr-2-racing-rn-285-optimus-prime-20201206-t-140306-z-001/Srikandi%20SHD-20201206T140019Z-001.zip",
+          "gambar": "https://1.bp.blogspot.com/-dZe2J-DZ7DQ/XqLf63DPLeI/AAAAAAAADso/orR-w-r8Y881DygBSgi2DXX4mvS5B80VACLcBGAsYHQ/s640/Screenshot_20200424-194623_Bus%2BSimulator%2BIndonesia.jpg"
+       },
+       {
+          "id": "6",
+          "judul": "Srikandi Tronton Full Anim + Livery",
+          "zip": "download/sr-2-racing-rn-285-optimus-prime-20201206-t-140306-z-001/Srikandi%20Tronton%20Full%20Anim-20201206T135903Z-001.zip",
+          "gambar": "https://1.bp.blogspot.com/-qGbzSJGFcP8/XqLhSFlsnSI/AAAAAAAADs4/ksuWUcvhahcjGmJkcJsiH1UAEi_rwxH6QCLcBGAsYHQ/s640/Screenshot_20200424-195212_Bus%2BSimulator%2BIndonesia.jpg"
+       },
+       {
+          "id": "7",
+          "judul": "Mod Truck Canter Sawit",
+          "zip": "download/wahyuABADI/Wahyu%20abadi/Mitsubishi%20Canter%20Bak%20Muat%20Sawit.zip",
+          "gambar": "https://1.bp.blogspot.com/-qJOgK2Bp4TI/XyeeGGX-QHI/AAAAAAAAAHg/Qio7thO6sMoRtkstrR4KDCv4F2q9pKYiwCLcBGAsYHQ/s640/sawit.png"
+       },
+       {
+          "id": "8",
+          "judul": "Mod Truck Anti Gosip Muatan Beras",
+          "zip": "download/wahyuABADI/Wahyu%20abadi/anti%20gosip.zip",
+          "gambar": "https://1.bp.blogspot.com/-1O_Ag9LW0l0/XyeebdS96sI/AAAAAAAAAHo/-R7R1aIH5uUaGW1H2hoGThvFXWGa59d3wCLcBGAsYHQ/s480/anti%2Bgosip.jpg"
+       },
+       {
+          "id": "9",
+          "judul": "Mod Truck Canter Molen",
+          "zip": "download/wahyuABADI/Wahyu%20abadi/MOD%20CANTER%20MOLEN%20BY%20AZUMODS.zip",
+          "gambar": "https://1.bp.blogspot.com/-p_ueyBExYzQ/Xyees7OCxCI/AAAAAAAAAH0/RNl3NTu3oGsAkj08WgTz7Tw_XKPf78JVQCLcBGAsYHQ/s931/molen.jpeg"
+       },
+       {
+          "id": "10",
+          "judul": "Mod Canter Terpal Kotak",
+          "zip": "download/wahyuABADI/Wahyu%20abadi/Mitsubishi%20Canter%20Terpal%20Kotak%20New.zip",
+          "gambar": "https://1.bp.blogspot.com/-l6wVjOtnhbI/Xyee--07zsI/AAAAAAAAAH8/j2Vl2OX8C4siGTCz9AS45kIKrmMEypKxwCLcBGAsYHQ/s1280/terpal.jpg"
+       },
+       {
+          "id": "11",
+          "judul": "Mod Canter Muatan Sapi",
+          "zip": "download/wahyuABADI/Wahyu%20abadi/Mod%20Truck%20Muatan%20Sapi%20.zip",
+          "gambar": "https://1.bp.blogspot.com/-azk-RXHAcUA/XyefSdtMHzI/AAAAAAAAAIE/TZoV0km9T64wYKmI7_ZcG2NYZ_CyHoHvwCLcBGAsYHQ/s320/muatsapi.jpg"
+       },
+       {
+          "id": "12",
+          "judul": "Mod Truck Canter Towing",
+          "zip": "download/wahyuABADI/Wahyu%20abadi/Mod%20Center%20Racing%20Style.zip",
+          "gambar": "https://1.bp.blogspot.com/-Z7gkJmNE3Mk/XyefmXbwvCI/AAAAAAAAAIM/BsuUGd6Rr9kEqtRVWq2dwkVRlepA_l7IQCLcBGAsYHQ/s640/towingggg.jpg"
+       },
+       {
+          "id": "13",
+          "judul": "Mod Truck Tronton Umplung",
+          "zip": "download/wahyuABADI/Wahyu%20abadi/Mitsubishi%20umplung%20tronton.zip",
+          "gambar": "https://1.bp.blogspot.com/-eJOvQwyl5H0/Xyef6It3BvI/AAAAAAAAAIU/w84A0n21sxMhJ9sucV2LMOoWK-_RGx9lwCLcBGAsYHQ/s0/tronton.jpg"
+       },
+       {
+          "id": "14",
+          "judul": "Mod Truck Hino Angkut Kereta",
+          "zip": "download/wahyuABADI/Wahyu%20abadi/Hino%20Kereta.zip",
+          "gambar": "https://1.bp.blogspot.com/-6ovpKSVQszs/XyegIjWbW8I/AAAAAAAAAIY/iVBMHjvnSEoBGl38LWicFGBI41MMp3OQACLcBGAsYHQ/s0/kereta.jpeg"
+       },
+       {
+          "id": "15",
+          "judul": "Mod Fuso Angkut Semen",
+          "zip": "download/wahyuABADI/Wahyu%20abadi/Truck%20Fuso%20Tribal%20Muatan%20Semen.zip",
+          "gambar": "https://1.bp.blogspot.com/-jJ5nxpz9bNY/XyegZK0LwxI/AAAAAAAAAIk/lJsjdU30xfQ24AQhxAgA5KehRc1KHlR4QCLcBGAsYHQ/s0/semen.jpg"
+       },
+       {
+          "id": "16",
+          "judul": "Mod Truck Canter Cabe Anti Gosip",
+          "zip": "download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/anti%20gosip.zip",
+          "gambar": "https://1.bp.blogspot.com/-x2v5DUkzJzg/XyfgxrjJV0I/AAAAAAAAALw/en-0yH3Cp44j4mIk2imaPJYKXoxgs08PACLcBGAsYHQ/s640/cabe.jpg"
+       },
+       {
+          "id": "17",
+          "judul": "Mod Truck Canter Oleng",
+          "zip": "download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/CANTER%20B.zip",
+          "gambar": "https://1.bp.blogspot.com/-JJgYasbLFa8/XyfggH6qk3I/AAAAAAAAALo/VPsbX-FDaXkLsUpa9DF8svGgCndD9exdwCLcBGAsYHQ/s640/oleng.jpg"
+       },
+       {
+          "id": "18",
+          "judul": "Mod Truck Canter Full Strobo",
+          "zip": "download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/nmr.zip",
+          "gambar": "https://1.bp.blogspot.com/-SLU4MmSrr3c/XyfgIJHtszI/AAAAAAAAALg/5v4V2gIZk50KWr4E3vkqavuGF-eFnBeaACLcBGAsYHQ/s0/strobo.jpg"
+       },
+       {
+          "id": "19",
+          "judul": "Mod Truck Canter Mukhlas",
+          "zip": "download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/Var%20O.zip",
+          "gambar": "https://1.bp.blogspot.com/-sK_h_HZmSwc/Xyff3KU7jJI/AAAAAAAAALY/EzhO9vLav7M6E1lqm9yEID920wG2dAjOQCLcBGAsYHQ/s0/muhklas.jpg"
+       },
+       {
+          "id": "20",
+          "judul": "Mod Truck Canter Minimalis",
+          "zip": "download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/canter%20minimalis.zip",
+          "gambar": "https://1.bp.blogspot.com/-ZidCYXx-isE/XyffBAkm4tI/AAAAAAAAALQ/6OSd5f91uMgYuwm8Q4Gehz20qqq0B2k-wCLcBGAsYHQ/s0/minimalis.jpg"
+       },
+       {
+         "id": "21",
+         "judul": "Mod Truck Canter Wahyu Abadi",
+         "zip": "download/truck-canter-wahyu-abadi-20201206-t-140148-z-001/Truck%20Canter%20Wahyu%20Abadi-20201206T140148Z-001.zip",
+         "gambar": "https://1.bp.blogspot.com/-6cMYZ8SsSdU/XyedrhErwnI/AAAAAAAAAHY/IBTommv9DUY_Pd0brslmShd2gclf8Oe-wCLcBGAsYHQ/s0/wahyuabadioke.jpg"
+       }
+      
+    ]
+ }
